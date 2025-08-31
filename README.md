@@ -9,7 +9,7 @@ Github Profile of MakkerJulian
 
 ## 🚀 About Me
 
-I am a Software Engineering student at Hanze Groningen and a Junior Full-Stack developer at RYSST Zwolle. 
+I am a Software Engineering student at Hanze Groningen and a Junior Full-Stack developer at Harvest Digital Groningen
 
 ## 🛠 Skills
 
