@@ -9,14 +9,15 @@ Github Profile of MakkerJulian
 
 ## 🚀 About Me
 
-I am a Software Engineering student at Hanze Groningen and a Junior Full-Stack developer at Harvest Digital Groningen
+I am a Software Engineering student at Hanze Groningen and a Full-Stack developer at Harvest Digital Groningen
 
 ## 🛠 Skills
 
 - Professional Scrum master 1
-- App & Full-Stack development
-- PHP, Java, Python, Javascript, Typescript, C#, DOTNET
-- MongoDB, MySQL, SQLite
+- App, Mobile & Full-Stack development
+- Typescript development: NESTJS, vite + react
+- Typescript, PHP, Java, Python, Javascript, C#, DOTNET
+- TypeORM, MongoDB, MySQL, SQLite
 - GIT
 - Docker
 
