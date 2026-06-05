@@ -14,10 +14,11 @@ I am a Software Engineering student at Hanze Groningen and a Full-Stack develope
 ## 🛠 Skills
 
 - Professional Scrum master 1
-- App, Mobile & Full-Stack development
-- Typescript development: NESTJS, vite + react
-- Typescript, PHP, Java, Python, Javascript, C#, DOTNET
-- TypeORM, MongoDB, MySQL, SQLite
+- App, Mobile, Game(Unity) & Full-Stack development
+- Typescript development: NODE/NESTJS, vite + react, tanstack, expressjs
+- Styling frameworks: MUI, Chakra, styled components
+- Languages: Typescript, PHP, Java, Python, Javascript, C#, DOTNET, Dart
+- Database frameworls: TypeORM, MongoDB, MySQL, SQLite, SOQL
 - GIT
 - Docker
 
