@@ -11,7 +11,7 @@ Github Profile of MakkerJulian
 
 I am a Full-Stack Software Engineer.
 Graduated at Hanze Groningen in 2026.
-Developer of [!Familie website](https://familie-website.nl)
+Lead Developer and designer of the [Familie website](https://familie-website.nl)
 
 ## 🛠 Skills
 
