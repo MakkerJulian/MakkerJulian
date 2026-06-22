@@ -52,6 +52,7 @@ I am a Full-Stack Software Engineer with a strong background in building scalabl
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-%23F2C811.svg?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
