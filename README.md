@@ -9,7 +9,9 @@ Github Profile of MakkerJulian
 
 ## 🚀 About Me
 
-I am a Software Engineering student at Hanze Groningen and a Full-Stack developer at Harvest Digital Groningen
+I am a Full-Stack Software Engineer.
+Graduated at Hanze Groningen in 2026.
+Developer of [!Familie website](https://familie-website.nl)
 
 ## 🛠 Skills
 
