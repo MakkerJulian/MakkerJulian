@@ -56,15 +56,6 @@ I am a Full-Stack Software Engineer with a strong background in building scalabl
 
 ---
 
-## 🎓 Academic Foundations & Core Concepts
-
-Beyond frameworks, my software engineering background includes core architectural and theoretical paradigms:
-* **Engineering Principles:** Object-Oriented Programming (OOP), Iterative & Recursive programming, Web Technologies & IoT (Internet of Things).
-* **Databases & Queries:** Relational SQL, SOQL (Salesforce Object Query Language), TypeORM.
-* **Low-Level & Hardware Analysis:** Digital logic design using Logisim.
-
----
-
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-kloosterhuis-968584266/)
