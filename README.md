@@ -7,7 +7,7 @@ I am a Full-Stack Software Engineer with a strong background in building scalabl
 ## 🚀 About Me
 
 * 🎓 **Education:** Graduated in HBO-ICT (Software Engineering) from Hanze University of Applied Sciences, Groningen (2026) | Previously studied at Windesheim (Game Development, Unity).
-* 💼 **Current Role:** Full-Stack Developer at **Harvest** (Specializing in Full-Stack web development & Salesforce Development).
+* 💼 **Current Role:** Full-Stack Developer at **Harvest**
 * 🌟 **Past Experience:** 
   * Graduation Intern Full-Stack Developer at **Harvest**
   * Junior Software Developer at **RYSST**
